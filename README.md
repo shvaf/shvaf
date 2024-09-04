@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 Hello, I'm Tia! 
 
+## Work Experience
+
+
 ## 📫 How to reach me:
 📧 shvafeas@gmail.com 
 
