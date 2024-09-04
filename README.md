@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I'm Tia! 
+
+## 📫 How to reach me:
+📧 shvafeas@gmail.com 
+
+[LinkedIn](https://www.linkedin.com/in/stamatiavafeas/)
